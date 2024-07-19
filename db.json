@@ -1,0 +1,184 @@
+{
+  "players": [
+    {
+      "id": "2",
+      "name": "Kevin De Bruyne",
+      "position": "Midfielder",
+      "team": "Manchester City",
+      "points": 180,
+      "price": 11.5,
+      "goals": 10,
+      "assists": 20
+    },
+    {
+      "id": "3",
+      "name": "Mohamed Salah",
+      "position": "Forward",
+      "team": "Liverpool",
+      "points": 220,
+      "price": 12.5,
+      "goals": 22,
+      "assists": 12
+    },
+    {
+      "id": "4",
+      "name": "Bruno Fernandes",
+      "position": "Midfielder",
+      "team": "Manchester United",
+      "points": 190,
+      "price": 11,
+      "goals": 15,
+      "assists": 18
+    },
+    {
+      "id": "5",
+      "name": "Son Heung-min",
+      "position": "Midfielder",
+      "team": "Tottenham Hotspur",
+      "points": 185,
+      "price": 10,
+      "goals": 17,
+      "assists": 10
+    },
+    {
+      "id": "6",
+      "name": "Erling Haaland",
+      "position": "Forward",
+      "team": "Manchester City",
+      "points": 230,
+      "price": 13,
+      "goals": 30,
+      "assists": 5
+    },
+    {
+      "id": "7",
+      "name": "Trent Alexander-Arnold",
+      "position": "Defender",
+      "team": "Liverpool",
+      "points": 160,
+      "price": 8.5,
+      "goals": 2,
+      "assists": 12
+    },
+    {
+      "id": "8",
+      "name": "Raheem Sterling",
+      "position": "Midfielder",
+      "team": "Chelsea",
+      "points": 150,
+      "price": 9.5,
+      "goals": 12,
+      "assists": 8
+    },
+    {
+      "id": "9",
+      "name": "Bukayo Saka",
+      "position": "Midfielder",
+      "team": "Arsenal",
+      "points": 170,
+      "price": 9,
+      "goals": 14,
+      "assists": 11
+    },
+    {
+      "id": "10",
+      "name": "Virgil van Dijk",
+      "position": "Defender",
+      "team": "Liverpool",
+      "points": 140,
+      "price": 7.5,
+      "goals": 3,
+      "assists": 2
+    },
+    {
+      "id": "11",
+      "name": "Marcus Rashford",
+      "position": "Forward",
+      "team": "Manchester United",
+      "points": 175,
+      "price": 10,
+      "goals": 18,
+      "assists": 7
+    },
+    {
+      "id": "12",
+      "name": "Jack Grealish",
+      "position": "Midfielder",
+      "team": "Manchester City",
+      "points": 140,
+      "price": 8,
+      "goals": 8,
+      "assists": 9
+    },
+    {
+      "id": "13",
+      "name": "Alisson",
+      "position": "Goalkeeper",
+      "team": "Liverpool",
+      "points": 150,
+      "price": 6,
+      "goals": 0,
+      "assists": 1
+    },
+    {
+      "id": "14",
+      "name": "Kai Havertz",
+      "position": "Forward",
+      "team": "Arsenal",
+      "points": 130,
+      "price": 8.5,
+      "goals": 10,
+      "assists": 6
+    },
+    {
+      "id": "16",
+      "name": "James Maddison",
+      "position": "Midfielder",
+      "team": "Tottenham Hotspur",
+      "points": 160,
+      "price": 9,
+      "goals": 12,
+      "assists": 10
+    },
+    {
+      "id": "17",
+      "name": "Ederson",
+      "position": "Goalkeeper",
+      "team": "Manchester City",
+      "points": 145,
+      "price": 5.5,
+      "goals": 0,
+      "assists": 1
+    },
+    {
+      "id": "18",
+      "name": "Martin Odegaard",
+      "position": "Midfielder",
+      "team": "Arsenal",
+      "points": 155,
+      "price": 8.5,
+      "goals": 11,
+      "assists": 9
+    },
+    {
+      "id": "19",
+      "name": "Andy Robertson",
+      "position": "Defender",
+      "team": "Liverpool",
+      "points": 130,
+      "price": 7,
+      "goals": 1,
+      "assists": 8
+    },
+    {
+      "id": "20",
+      "name": "Phil Foden",
+      "position": "Midfielder",
+      "team": "Manchester City",
+      "points": 145,
+      "price": 8,
+      "goals": 9,
+      "assists": 7
+    }
+  ]
+}

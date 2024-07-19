@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fantasy EPL Manager</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <span class="logo-fantasy">Fantasy</span>
+            <span class="logo-epl">EPL</span>
+        </div>
+        <h1>Analytics Manager</h1>
+    </header>
+    <main>
+        <section id="team-info">
+            <h2>Team Info</h2>
+            <p>Budget: £<span id="team-budget">100.0</span>m</p>
+            <p>Players: <span id="player-count">0</span>/15</p>
+        </section>
+        <section id="player-search-section">
+            <h2>Search Players</h2>
+            <input type="text" id="search-input" placeholder="Search for players...">
+            <div id="search-results"></div>
+        </section>
+        <section id="player-form-section">
+            <h2>Add/Edit Player</h2>
+            <form id="player-form">
+                <input type="hidden" id="player-id">
+                <input type="text" id="name" placeholder="Player Name" required>
+                <select id="position" required>
+                    <option value="">Select Position</option>
+                    <option value="Goalkeeper">Goalkeeper</option>
+                    <option value="Defender">Defender</option>
+                    <option value="Midfielder">Midfielder</option>
+                    <option value="Forward">Forward</option>
+                </select>
+                <input type="text" id="team" placeholder="Team" required>
+                <input type="number" id="points" placeholder="Points" required>
+                <input type="number" id="price" placeholder="Price (in millions)" step="0.1" required>
+                <input type="number" id="goals" placeholder="Goals" required>
+                <input type="number" id="assists" placeholder="Assists" required>
+                <button id="submit-btn">Add Player</button>
+            </form>
+        </section>
+        <section id="player-list-section">
+            <h2>Your Team</h2>
+            <div id="player-list"></div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Fantasy EPL Manager. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
